@@ -1,0 +1,17 @@
+/_pycache_/
+*.pkl
+/face_recog/database/
+/face_recog/model_checkpoints/
+/face_recog/pic/
+/barcode/*.pyc
+/digit/*.pyc
+/digit/recognize_digit/*.pyc
+/digit/recognize_digit/model/
+/ocr/angle/*.h5
+/ocr/crnn/*.pyc
+/ocr/ctpn/ctpn/ctpn_checkpoints/
+/ocr/crnn/samples/
+/ocr/ocr/*.h5
+/ocr/ocr/data/*.pb
+/ocr/ctpn/ctpn/ctpn_checkpoints/
+/.idea/
